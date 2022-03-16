@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd2d9e76f9da1d70ee259b1126e0bf69f024d0f98a6e6cf28f1088acec06b3ca4",
+  "SCAN_LINK": "https://polygonscan.com/token/0xd2d9e76f9da1d70ee259b1126e0bf69f024d0f98a6e6cf28f1088acec06b3ca4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Silky Chicken Pixel Pals",
+  "SYMBOL": "SCPP",
+  "MAX_SUPPLY": 444,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/silky-chicken-pixel-pals",
+  "SHOW_BACKGROUND": true
+}
